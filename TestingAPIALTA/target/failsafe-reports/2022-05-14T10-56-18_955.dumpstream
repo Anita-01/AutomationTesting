@@ -1,0 +1,4 @@
+# Created at 2022-05-14T10:56:19.653
+Boot Manifest-JAR contains absolute paths in classpath 'D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\PROYEK_ALTERRA\TestingAPIALTA\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

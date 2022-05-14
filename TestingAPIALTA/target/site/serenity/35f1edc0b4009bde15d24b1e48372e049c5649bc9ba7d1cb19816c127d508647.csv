@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Post Ratings","Successful Create Rating for Product","SUCCESS","2022-05-14T10:56:30.037+07:00[Asia/Bangkok]","0.0","0.8"
+"Post Ratings","Failed to Create Rating for Product","SUCCESS","2022-05-14T10:56:30.849+07:00[Asia/Bangkok]","0.0","0.6"

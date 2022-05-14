@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Get Product's Comments" skipped="0" tests="2" time="3.73" timestamp="2022-05-14 10:56:21"><testcase name="Get Product's Comment In AltaShop"/><testcase name="Get Wrong Product's Comment In AltaShop"/></testsuite>

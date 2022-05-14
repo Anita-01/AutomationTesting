@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Get Ratings" skipped="0" tests="2" time="0.5" timestamp="2022-05-14 10:56:41"><testcase name="Get Product's Rating In AltaShop"/><testcase name="Get Wrong Product's Rating In AltaShop"/></testsuite>

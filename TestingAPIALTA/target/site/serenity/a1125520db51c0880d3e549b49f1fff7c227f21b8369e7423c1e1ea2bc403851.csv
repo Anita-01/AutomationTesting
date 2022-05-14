@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Categories","Get Invalid Categories With Wrong Target Request1","SUCCESS","2022-05-14T10:56:35.134+07:00[Asia/Bangkok]","0.0","0.31"
+"Get Categories","Get Invalid Categories With Wrong Target Request2","SUCCESS","2022-05-14T10:56:35.463+07:00[Asia/Bangkok]","0.0","0.29"
+"Get Categories","Get Invalid Categories With Wrong Target Request3","SUCCESS","2022-05-14T10:56:35.768+07:00[Asia/Bangkok]","0.0","0.61"
+"Get Categories","Get Invalid Categories With Wrong Target Request4","SUCCESS","2022-05-14T10:56:36.384+07:00[Asia/Bangkok]","0.0","0.46"
+"Get Categories","Get Invalid Categories With Wrong Target Request6","SUCCESS","2022-05-14T10:56:37.905+07:00[Asia/Bangkok]","0.0","0.31"

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Ratings","Get Product's Rating In AltaShop","SUCCESS","2022-05-14T10:56:41.807+07:00[Asia/Bangkok]","0.0","0.26"
+"Get Ratings","Get Wrong Product's Rating In AltaShop","SUCCESS","2022-05-14T10:56:42.066+07:00[Asia/Bangkok]","0.0","0.25"

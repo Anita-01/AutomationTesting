@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Post","Successful Create Category","SUCCESS","2022-05-14T10:56:25.577+07:00[Asia/Bangkok]","0.0","0.92"
+"Post","Failed Create Category With Combine String and character","SUCCESS","2022-05-14T10:56:26.51+07:00[Asia/Bangkok]","0.0","0.39"
+"Post","Failed Create Category With Combine Int","SUCCESS","2022-05-14T10:56:26.913+07:00[Asia/Bangkok]","0.0","0.28"
+"Post","Failed Create Category With Combine int and character","SUCCESS","2022-05-14T10:56:27.215+07:00[Asia/Bangkok]","0.0","0.62"
+"Post","Failed Create Category With Combine Character and Int","SUCCESS","2022-05-14T10:56:27.856+07:00[Asia/Bangkok]","0.0","0.4"
+"Post","Failed Create Category Without Body","SUCCESS","2022-05-14T10:56:28.265+07:00[Asia/Bangkok]","0.0","0.27"
