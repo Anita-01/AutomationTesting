@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuyItemWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46f55e7e-f4a4-4670-a032-96c868ae6282</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "47B16406438442EBCCDC35BBC6159B71",
+  "keywordClasses": [
+    {
+      "name": "shoppingcart.AddItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

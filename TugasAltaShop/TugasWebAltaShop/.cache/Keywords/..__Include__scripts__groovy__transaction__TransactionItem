@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E886577932092DDF8F95334750931CB5",
+  "keywordClasses": [
+    {
+      "name": "transaction.TransactionItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

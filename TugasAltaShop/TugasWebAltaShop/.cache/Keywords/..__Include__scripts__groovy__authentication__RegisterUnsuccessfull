@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9F52380E3CB677E7642A9AA234600E1B",
+  "keywordClasses": [
+    {
+      "name": "authentication.RegisterUnsuccessfull",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

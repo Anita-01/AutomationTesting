@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B36921F8256D1C14C5C6CA15C9E3E3B0",
+  "keywordClasses": [
+    {
+      "name": "authentication.Register",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

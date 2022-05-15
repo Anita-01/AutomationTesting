@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BF14C1DF67F9E786D7828A27117DCF4E",
+  "keywordClasses": [
+    {
+      "name": "authentication.LogOut",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

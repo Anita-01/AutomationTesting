@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5ED407225557A8CF876CF80396DEDB5A",
+  "keywordClasses": [
+    {
+      "name": "transaction.FilterItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
